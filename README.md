@@ -1,4 +1,3 @@
-CSI2372 - Advanced Programming Concepts with C++ (Fall 2015)
 
 This project is a console game for 2-4 players which is played on a game board (a grid of squares). Each player receives a random set 
 of cards (each card contains 1-4 animals) and a secret unique animal. The players take turns. At each turn, the players will have 
